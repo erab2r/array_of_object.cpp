@@ -11,13 +11,13 @@ public:
 int main() {
     int n;
     cin >> n;
-    cin.ignore(); // To consume the newline after entering 'n'
+    cin.ignore(); 
 
     Student a[n];
     for (int i = 0; i < n; i++) {
         getline(cin, a[i].name); 
         cin >> a[i].roll >> a[i].mark;
-        cin.ignore(); // consume the leftover newline before the next getline
+        cin.ignore(); 
     }
 
     for (int i = 0; i < n; i++) {
