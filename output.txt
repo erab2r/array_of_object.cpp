@@ -1,1 +1,8 @@
-saif 3 100
+Ali 3 68
+saif 3 75
+saif 3 78
+sayed 3 97
+Israt 1 98
+era 1 98
+ullah 2 99
+habib 2 100
