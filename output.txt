@@ -1,8 +1,5 @@
-habib 2 100
-ullah 6 99
-era 5 98
-Israt 1 98
-sayed 3 97
-saif 8 78
-saif 4 75
-Ali 7 68
+Bijoy 7 E 29 68 99
+Asif 10 C 27 55 60
+Joy 9 G 28 66 45
+Shojoy 9 E 26 40 50
+Munna 8 D 25 50 30
